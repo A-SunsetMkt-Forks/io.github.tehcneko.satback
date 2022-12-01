@@ -3,6 +3,7 @@
     <string name="xposed_description">不让应用变黑白</string>
     <string-array name="scope">
         <item>cmb.pb</item>
+        <item>com.autonavi.minimap</item>
         <item>com.MobileTicket</item>
         <item>com.baidu.tieba</item>
         <item>com.cainiao.wireless</item>
